@@ -1,0 +1,54 @@
+body {
+    background: #C0C0C0; /* Используем HEX-код для silver */
+    font-family: 'Montserrat', sans-serif;
+    color: #333; /* Добавим основной цвет текста для контраста */
+}
+
+header {
+    width: 100%;
+    padding: 15px 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #696969; /* Используем HEX-код для grey */
+    border-bottom: 2px solid #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Добавим тень */
+}
+
+    header .logo {
+        font-weight: 700; /* Немного увеличим жирность */
+        font-size: 26px;
+        color: #fff;
+    }
+
+    header nav a {
+        color: #fff;
+        text-decoration: none;
+        margin-left: 20px; /* Увеличим отступ для лучшего разделения ссылок */
+        transition: color 0.3s, text-decoration 0.3s; /* Добавим плавный переход */
+    }
+
+        header nav a:hover {
+            text-decoration: underline;
+            color: #f0f0f0; /* Изменим цвет при наведении */
+        }
+
+main {
+    width: 80%;
+    padding: 30px 10%; /* Увеличим внутренние отступы для лучшего восприятия */
+    margin: 50px auto;
+    background: #fff; /* Добавим белый фон */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Добавим тень */
+    border-radius: 10px; /* Скруглим углы */
+}
+
+footer {
+    margin-top: 100px;
+    text-align: center;
+    width: 100%;
+    padding: 20px 0;
+    color: #fff;
+    background: #696969;
+    border-top: 2px solid #fff;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Добавим тень */
+}

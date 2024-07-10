@@ -1,0 +1,31 @@
+D:\Documents\MyPrograms\Project-Manager\Project Manager\bin\Debug\net8.0\appsettings.Development.json
+D:\Documents\MyPrograms\Project-Manager\Project Manager\bin\Debug\net8.0\appsettings.json
+D:\Documents\MyPrograms\Project-Manager\Project Manager\bin\Debug\net8.0\Project Manager.staticwebassets.runtime.json
+D:\Documents\MyPrograms\Project-Manager\Project Manager\bin\Debug\net8.0\Project Manager.exe
+D:\Documents\MyPrograms\Project-Manager\Project Manager\bin\Debug\net8.0\Project Manager.deps.json
+D:\Documents\MyPrograms\Project-Manager\Project Manager\bin\Debug\net8.0\Project Manager.runtimeconfig.json
+D:\Documents\MyPrograms\Project-Manager\Project Manager\bin\Debug\net8.0\Project Manager.dll
+D:\Documents\MyPrograms\Project-Manager\Project Manager\bin\Debug\net8.0\Project Manager.pdb
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\Project Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\Project Manager.AssemblyInfoInputs.cache
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\Project Manager.AssemblyInfo.cs
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\Project Manager.csproj.CoreCompileInputs.cache
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\Project Manager.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\Project Manager.RazorAssemblyInfo.cache
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\Project Manager.RazorAssemblyInfo.cs
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\Project Manager.sourcelink.json
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\staticwebassets.build.json
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\staticwebassets.development.json
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\staticwebassets\msbuild.Project Manager.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\staticwebassets\msbuild.build.Project Manager.props
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project Manager.props
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project Manager.props
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\scopedcss\bundle\Project Manager.styles.css
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\scopedcss\projectbundle\Project Manager.bundle.scp.css
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\Project Manager.dll
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\refint\Project Manager.dll
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\Project Manager.pdb
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\Project Manager.genruntimeconfig.cache
+D:\Documents\MyPrograms\Project-Manager\Project Manager\obj\Debug\net8.0\ref\Project Manager.dll
